@@ -1,0 +1,14 @@
+{
+  "name": "oper-workshop-otp",
+  "version": "1.0.0",
+  "description": "Just another oper-workshop's utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cua",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.6.0"
+  }
+}
